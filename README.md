@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm neeesaa</h1>
-<h3 align="center">computer engineering student from Nepal (Farwestern University)</h3>
+<p align="center">
+  <img src="https://github.com/Neesa-Saud/Neesa-Saud/blob/main/github%20banner.gif" width="1800" height="350" />
+</p>
+
+<h1 align="Left"> I'm Nisha✨ </h1>
+<h3 align="center"><...Everday learning something new...> </h3>
+<img align ="right" alt= "coding" src="GIF github.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neesa-saud&label=Profile%20views&color=0e75b6&style=flat" alt="neesa-saud" /> </p>
 
