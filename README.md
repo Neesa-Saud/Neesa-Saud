@@ -52,7 +52,7 @@
 </a>
   
 <a href="https://firebase.google.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Logo" width="100"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Logo" width="50"/>
 </a>
 </p>
 
