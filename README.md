@@ -59,6 +59,11 @@
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
   </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" 
+       alt="terraform" width="40" height="40"/>
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neesa-saud&show_icons=true&locale=en&layout=compact" alt="neesa-saud" /></p>
