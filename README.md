@@ -48,8 +48,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
   <a href="https://flutter.dev" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="100"/>
-</a>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" 
+       alt="Flutter Logo" width="50"/>
+</a>
+
 <a href="https://firebase.google.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Logo" width="50"/>
 </a>
